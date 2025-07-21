@@ -40,6 +40,10 @@ Confirmed that the homepage (index.html) loads correctly.
 
 ![image_alt](https://raw.githubusercontent.com/gawali-priyanka/Brainwave-Matrix-Intern-task2/f21b818287ea22788355a601fad459a6318323f1/screenshorts/Screenshot%202025-07-18%20185212.png)
 
+✅ Static page
+
+![image_alt](https://raw.githubusercontent.com/gawali-priyanka/Brainwave-Matrix-Intern-task2/99f1929162893dde32b64ab61cd20984522689ad/screenshorts/Screenshot%202025-07-18%20185322.png)
+
 ✅ Error Page Handling
 
 Tested invalid URLs to verify that error.html is displayed as the custom error page.
